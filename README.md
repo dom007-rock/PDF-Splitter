@@ -1,6 +1,12 @@
 # PDF-Splitter
 PDF Splitter - Split any PDF into smaller files instantly. 
 
+Steps:
+      - Open the Zip in your local
+      - Double-click on Build.bat
+      - Wait for few minutes
+      - Open dir folder and Enjoy
+
 • Choose how many pages per file (2, 3, 5, 10, or any custom number)
 
 • Automatically creates an organized output folder
